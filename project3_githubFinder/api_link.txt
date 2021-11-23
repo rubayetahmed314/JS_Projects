@@ -1,0 +1,8 @@
+Api Documentation:
+https://developer.github.com/v3/
+
+Fetch an User: Here "a" is the username or handle
+https://api.github.com/users/a/
+
+Fetch Repos: Here "a" is the username or handle
+https://api.github.com/users/a/repos
